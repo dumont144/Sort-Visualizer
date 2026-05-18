@@ -66,7 +66,7 @@ npm run preview  # Preview do build
 
 ## 📄 Licença
 
-MIT © Seu Nome
+MIT © Felipe Monte
 
 ---
 
